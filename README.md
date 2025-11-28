@@ -1,0 +1,1 @@
+Analyzed the World’s Best Restaurants dataset using R. Cleaned and transformed data, then created visualizations including a heatmap, bar chart, and world map to show ranking trends, top-performing countries, and restaurant locations. Demonstrated data cleaning and visualization skills.
